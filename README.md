@@ -52,6 +52,15 @@ nesse caso, o programa ao pedir a moeda para o usuário recebe um negação do m
 
 b) Segundo exemplo:
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107162134/185002110-54107b27-1c26-4bb0-b640-7075f1d8eb3c.png" width="400px" />
+</div>
 
+nesse outro exemplo, temos uma mudança de estado já que agora saímos de q0 e fomos para q1 [SABÃO], entretanto, o programa ao pedir para o usuário o sabão recebe uma negação fazendo novamente um loop que só terminará quando a necessidade for satisfeita, igual ao exemplo a.  
 
+c) Terceiro exemplo: 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107162134/185002110-54107b27-1c26-4bb0-b640-7075f1d8eb3c.png" width="400px" />
+</div>
 
