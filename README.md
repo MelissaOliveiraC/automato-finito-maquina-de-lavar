@@ -61,6 +61,7 @@ nesse outro exemplo, temos uma mudança de estado já que agora saímos de q0 e 
 c) Terceiro exemplo: 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/107162134/185002110-54107b27-1c26-4bb0-b640-7075f1d8eb3c.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/107162134/185002724-d73b6e87-3c7f-4434-bd2d-38fd9e0847b8.png"300px" />
 </div>
 
+já nesse exemplo, chegamos ao estado final, obviamente, após percorrer todos os outros estados seguindo a regra pré-estabelecida, como todas as necessidades da máquina foram satisfeitas a mensagem [FINAL] surge no terminal, indicando assim que a leitura foi concluída com sucesso.
