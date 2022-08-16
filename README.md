@@ -14,7 +14,7 @@ Para demonstração de um autômato finito utilizaremos como exemplo a implement
 
 Para Implementação foi utilizada linguagem de programação JAVA
 
-3 AUTÔMATO DA MÁQUINA DE LAVAR 
+3 AUTÔMATO DA MÁQUINA DE LAVAR (ESTADOS E REGRAS)
 
 1 - q0 (Moeda) - Estado inicial onde deve ser inserido uma moeda, caso não seja inserida  continua no mesmo estado (espera da moeda). Após a inserção da moeda a máquina  poderá ser ligada; 
 
