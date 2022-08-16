@@ -36,7 +36,7 @@ Observação: para Implementação foi utilizada linguagem de programação JAVA
 
 O código se baseia na ideia de sequência, dessa forma, para que seja concluído com sucesso o mesmo deve chegar ao seu final, isso será sinalizado por [FINAL] no terminal;
 
-Para utilizar basta seguir as instruções que serão feitas pelo programa direto no terminal, tratando-se de um autômato de uma máquina de lavar o programa pedirá ao usuário entradas relacionadas, como por exemplo: sabão.
+Para utilizar basta seguir as instruções que serão dadas pelo programa direto no terminal, tratando-se de um autômato de uma máquina de lavar o programa pedirá ao usuário entradas relacionadas, como por exemplo: sabão.
 
 Se alguma das entradas for negada pelo usuário, seguindo a regra pré-estabelecida, o programa permanecerá no estado o qual a negação ocorreu até que seja atendida a necessidade.
 
