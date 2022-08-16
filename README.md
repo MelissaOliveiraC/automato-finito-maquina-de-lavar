@@ -24,3 +24,10 @@ Para Implementação foi utilizada linguagem de programação JAVA
 4 - q3 (Centrifugar) - Realizar a função de Centrifugação; 
 
 5 - qf  (Secar) - Realizar a função de Secagem e após isso, desliga;
+
+4 REPRESENTAÇÃO GRÁFICA DO AUTÔMATO
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107162134/184997730-6cf997aa-57d7-4704-b95a-26fcdb23734c.jpg" width="700px" />
+</div>
+
