@@ -5,6 +5,7 @@ Trabalho de Teoria da Computação [Linguagens Regulares] implementação de Aut
 1  INTRODUÇÃO
 
 A Máquina de Estados Finito é formada por um conjunto de estados e conjunto de regras e transições entre cada estado. Esta técnica bastante utilizada  devido a necessidade de pouco processamento e fácil compreensão.A utilização das máquinas de estado finito foi extremamente ampla, existem muitas possibilidades de implementação de máquinas de estado finito em software: desde instruções básicas de comutação, ponteiros de função (C, C++) até implementações baseadas em "padrão de estado" orientadas a objetos.
+      
 Embora ultrapassadas em relação às técnicas modernas de inteligência artificial, como agentes inteligentes, redes neurais, algoritmos genéticos, busca heurística, etc., as máquinas de estados finitos voltaram a ser usadas em larga escala em diferentes tipos de dispositivos. Esses dispositivos não suportam IA modernos pois o mesmo consome muitos recursos da máquina: CPU, memória, gráficos, som, entre outros. 
 
 2  MÁQUINA DE LAVAR 
@@ -23,11 +24,24 @@ Para Implementação foi utilizada linguagem de programação JAVA
 
 4 - q3 (Centrifugar) - Realizar a função de Centrifugação; 
 
-5 - qf  (Secar) - Realizar a função de Secagem e após isso, desliga;
+5 - qF  (Secar) - Realizar a função de Secagem e após isso, desliga;
 
 4 REPRESENTAÇÃO GRÁFICA DO AUTÔMATO
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/107162134/184997730-6cf997aa-57d7-4704-b95a-26fcdb23734c.jpg" width="700px" />
 </div>
+
+5 INSTRUÇÕES DE EXECUÇÃO 
+
+O código se baseia na ideia de sequência, dessa forma, para que seja concluído com sucesso o mesmo deve chegar ao seu final, isso será sinalizado por [FINAL] no terminal;
+
+Para utilizar basta seguir as instruções que serão feitas pelo programa direto no terminal, tratando-se de um autômato de uma máquina de lavar o programa pedirá ao usuário entradas relaionadas, como por exemplo: sabão.
+
+Se alguma das entradas for negada pelo usuário, seguindo a regra pré-estabelecida, o programa permanecerá no estado o qual a negação ocorreu até que seja atendida a necessidade.
+
+6 EXEMPLOS DE FUNCIONAMENTO 
+
+
+
 
