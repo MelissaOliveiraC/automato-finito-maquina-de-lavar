@@ -12,13 +12,13 @@ Embora ultrapassadas em relação às técnicas modernas de inteligência artifi
 
 Para demonstração de um autômato finito utilizaremos como exemplo a implementação de uma máquina de lavar roupas, onde existem transições de estados que refletem em determinada ação.  
 
-Para Implementação foi utilizada linguagem de programação JAVA
+Observação: para Implementação foi utilizada linguagem de programação JAVA
 
 3 AUTÔMATO DA MÁQUINA DE LAVAR (ESTADOS E REGRAS)
 
 1 - q0 (Moeda) - Estado inicial onde deve ser inserido uma moeda, caso não seja inserida  continua no mesmo estado (espera da moeda). Após a inserção da moeda a máquina  poderá ser ligada; 
 
-2 - q1 (Sabão) - Após ligar, deverá ser adicionado o sabão. Caso o sabão não for adicionado o estado Q1 ficará em espera até a ação ser feita;
+2 - q1 (Sabão) - Após ligar, deverá ser adicionado o sabão. Caso o sabão não for adicionado o estado q1 ficará em espera até a ação ser feita;
 
 3 - q2 (Lavar) - Após o sabão ser adicionado a Máquina realizará a função lavar;
 
@@ -36,7 +36,7 @@ Para Implementação foi utilizada linguagem de programação JAVA
 
 O código se baseia na ideia de sequência, dessa forma, para que seja concluído com sucesso o mesmo deve chegar ao seu final, isso será sinalizado por [FINAL] no terminal;
 
-Para utilizar basta seguir as instruções que serão feitas pelo programa direto no terminal, tratando-se de um autômato de uma máquina de lavar o programa pedirá ao usuário entradas relaionadas, como por exemplo: sabão.
+Para utilizar basta seguir as instruções que serão feitas pelo programa direto no terminal, tratando-se de um autômato de uma máquina de lavar o programa pedirá ao usuário entradas relacionadas, como por exemplo: sabão.
 
 Se alguma das entradas for negada pelo usuário, seguindo a regra pré-estabelecida, o programa permanecerá no estado o qual a negação ocorreu até que seja atendida a necessidade.
 
