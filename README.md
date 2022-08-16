@@ -42,6 +42,16 @@ Se alguma das entradas for negada pelo usuário, seguindo a regra pré-estabelec
 
 6 EXEMPLOS DE FUNCIONAMENTO 
 
+a) Primeiro exemplo: 
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107162134/185001498-41766e0d-44c6-408a-96f3-8f30acf19489.png" width="400px" />
+</div>
+
+nesse caso, o programa ao pedir a moeda para o usuário recebe um negação do mesmo, representado por 'false', assim então, iniciando um loop até que a necessidade seja atendida, no caso a inserção da moeda.
+
+b) Segundo exemplo:
+
 
 
 
