@@ -34,6 +34,8 @@ Observação: para Implementação foi utilizada linguagem de programação JAVA
 
 5 INSTRUÇÕES DE EXECUÇÃO 
 
+O Programa é executado e após isso a mensagem [INICIO] surge no terminal do usuário.
+
 O código se baseia na ideia de sequência, dessa forma, para que seja concluído com sucesso o mesmo deve chegar ao seu final, isso será sinalizado por [FINAL] no terminal;
 
 Para utilizar basta seguir as instruções que serão dadas pelo programa direto no terminal, tratando-se de um autômato de uma máquina de lavar o programa pedirá ao usuário entradas relacionadas, como por exemplo: sabão.
@@ -48,7 +50,7 @@ a) Primeiro exemplo:
 <img src="https://user-images.githubusercontent.com/107162134/185001498-41766e0d-44c6-408a-96f3-8f30acf19489.png" width="400px" />
 </div>
 
-nesse caso, o programa ao pedir a moeda para o usuário recebe um negação do mesmo, representado por 'false', assim então, iniciando um loop até que a necessidade seja atendida, no caso a inserção da moeda.
+nesse caso, o programa ao pedir a moeda para o usuário recebe uma negação do mesmo, representado por 'false', assim então, iniciando um loop até que a necessidade seja atendida, no caso a inserção da moeda.
 
 b) Segundo exemplo:
 
@@ -56,7 +58,7 @@ b) Segundo exemplo:
 <img src="https://user-images.githubusercontent.com/107162134/185002110-54107b27-1c26-4bb0-b640-7075f1d8eb3c.png" width="400px" />
 </div>
 
-nesse outro exemplo, temos uma mudança de estado já que agora saímos de q0 e fomos para q1 [SABÃO], entretanto, o programa ao pedir para o usuário o sabão recebe uma negação fazendo novamente um loop que só terminará quando a necessidade for satisfeita, igual ao exemplo a.  
+nesse outro exemplo, temos uma mudança de estado já que agora saímos de q0 e fomos para q1 [SABÃO], entretanto, o programa ao pedir para o usuário o sabão recebe uma negação, fazendo novamente um loop que só terminará quando a necessidade for satisfeita, igual ao exemplo a.  
 
 c) Terceiro exemplo: 
 
@@ -64,4 +66,4 @@ c) Terceiro exemplo:
 <img src="https://user-images.githubusercontent.com/107162134/185002724-d73b6e87-3c7f-4434-bd2d-38fd9e0847b8.png"300px" />
 </div>
 
-já nesse exemplo, chegamos ao estado final, obviamente, após percorrer todos os outros estados seguindo a regra pré-estabelecida, como todas as necessidades da máquina foram satisfeitas a mensagem [FINAL] surge no terminal, indicando assim que a leitura foi concluída com sucesso.
+já nesse exemplo, chegamos ao estado final que, obviamente, é dado após percorrer todos os outros estados seguindo a regra pré-estabelecida. Como todas as necessidades da máquina foram satisfeitas a mensagem [FINAL] surge no terminal, indicando assim que a leitura foi concluída com sucesso.
