@@ -1,4 +1,4 @@
-# AutomatoFinito_Maquina-de-Lavar
+# AutomatoFinito_Máquina-de-Lavar
 Trabalho de Teoria da Computação [Linguagens Regulares] implementação de Autômato Finito Determistico (AFD)
 
 
