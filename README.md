@@ -67,3 +67,6 @@ c) Terceiro exemplo:
 </div>
 
 já nesse exemplo, chegamos ao estado final que, obviamente, é dado após percorrer todos os outros estados seguindo a regra pré-estabelecida. Como todas as necessidades da máquina foram satisfeitas a mensagem [FINAL] surge no terminal, indicando assim que a leitura foi concluída com sucesso.
+
+
+FEITO POR: MELISSA, LARISSA E BÁRBARA.
