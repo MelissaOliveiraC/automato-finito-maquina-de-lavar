@@ -1,4 +1,4 @@
-# AutomatoFinito_Máquina-de-Lavar
+# Automato Finito Máquina de Lavar
 Trabalho de Teoria da Computação [Linguagens Regulares] implementação de Autômato Finito (AF)
 
 
